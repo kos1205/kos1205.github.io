@@ -9,32 +9,34 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: ⬇️ Checkout Repository
-        # Checks out your repository so the workflow can access it
+        # We need to use the token to allow the subsequent push
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }} # This token is provided by GitHub automatically
 
       - name: ✍️ Replace "Shannon" with "Joe"
-        id: replacement
         run: |
-          # Use sed to find all occurrences of "Shannon" and replace them with "Joe" 
+          # Use sed to find all occurrences of "Shannon" and replace them with "Joe"
           # The -i flag edits the file in place
-          # We use a temporary file to ensure compatibility across different sed versions/OSes
           sed -i.bak 's/Shannon/Joe/g' events.md
           
           # Clean up the backup file
           rm events.md.bak
 
-      - name: 💾 Commit and Push Changes (Always)
-        # This step will now always execute, regardless of whether a replacement occurred
-        uses: stefanprodan/git-tools@v1
-        with:
-          # Configuration for the git commit
-          command: |
-            git config user.name "github-actions[bot]"
-            git config user.email "github-actions[bot]@users.noreply.github.com"
-            # Add the file to stage for commit
-            git add events.md
-            # Commit changes. If no changes are staged, this will return an error 
-            # unless you use the --allow-empty flag (which is not recommended here).
-            # We rely on 'git push' to handle the 'no changes' scenario gracefully.
-            git commit -m "Automated: Replace 'Shannon' with 'Joe' in events.md" || echo "No changes to commit."
-            git push
+      - name: 💾 Commit and Push Changes (Native Git)
+        # This step uses standard Git commands and the GITHUB_TOKEN for authentication
+        run: |
+          # 1. Configure Git user details
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # 2. Stage the file for commit
+          git add events.md
+          
+          # 3. Commit the changes
+          # The '|| true' allows the workflow to succeed if there are no changes to commit.
+          # This prevents a failure when 'Shannon' is not found.
+          git commit -m "Automated: Replace 'Shannon' with 'Joe' in events.md" || echo "No changes to commit, continuing."
+          
+          # 4. Push the commit to the repository
+          git push
