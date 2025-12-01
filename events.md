@@ -1,4 +1,4 @@
-                                                                                                                                                                                                                                                                                                                            # Events
+# Events
 
 - October 2022
   - October 7, 2022 ~20:00: (CNTX) Kelvin hears from his mother for the last time while he is in Des Moines, IA.  Kelvin’s mother, Patricia Ann Williams, made it a habit of calling Kelvin every day when he was traveling and after every flight.  No more calls were received by Kelvin for the duration of the trip or after landing in Atlanta.
@@ -108,11 +108,12 @@ November 14, 2025
   - (CNTX) Baby has been activated to engage in another attempt on the life of their shared body and is anticipating its "birthday," Slim has made his presence known which is pressuring Baby to act out against the shared body carrying out instructions received by operatives.  Baby does not equate hsrm it does to the shared body as a risk to its own life or its body, only as a potential risk to Kelvin.  The operatives do ofuscate and lie to Baby in an effort to have it continue its efforts which are intended to end their life.  Operatives have repeatedly used the term "suicide" in relation to Baby's "birthday" but Baby knows it would never commit suicide as it engages in new thinking that is nothing like suicide buts its effects on the body are lethal.
 - November 23, 2025
   - 04:42 Slim and Joe engage in direct subconscious mind communication for the purpose of guiding Baby’s thought processes to initiate physiological functions to cause death.
-  - 07:30 Joe knocks on Kelvin’s door and asks for cigarette butts.  According to the Creator, this was in part to push Baby to continue trying to cause death in Kelvin and partly to initiate the extreme lightheadedness in Kelvin when he stood to gauge the effectiveness of the recent attempts.
+  - 07:30 Joe knocks on Kelvin’s door and asks for cigarette butts.  
 - November 24, 2025
   - 00:00-06:00 Someone knocked on the door very loudly, Kelvin did not answer.  The locusts were heard.  Kelvin had a dream about human knowledge locked away in the pyramids (seemed to be a guided dream) and woke up drooling.
   - 15:00 An investigator with the District Attorney's office served the subpoena requiring Kelvin to testify in the murder case at Welcome House.
 - November 25, 2025
   - 10:00 Baby inhibited walking and demanding that Kelvin not testify.
   - 12:00 Baby continues inhibiting walking.
-
+- December 1, 2025
+  - (CNTX) Kelvin believes Joe moved to unit 108 within the last week.
