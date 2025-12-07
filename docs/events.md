@@ -262,6 +262,6 @@ This process is depicted as functioning only when Baby enters a condition of hei
 * James Johnson, Jr. ("Jay") is a resident of Welcome House in room 312
 * Frederick Hall ("Slim") is a resident of Welcome House in room  369
 * Eugene Harrison ("Gene")  is a resident of Welcome House in room  338
-* Shannon Wade Gumbiner ("Joseph Yadder")  is a reesident of Welcome House in room  108
+* Shannon Wade Gumbiner ("Joseph Yadder")  is a resident of Welcome House in room  108
 * Lynn Frazier ("N.O.")  is a resident of Welcome House in room 108
 * Alan Scott Dansky resides at 2959 Andrews Dr NW, Atlanta, GA and had telephone number 305-804-5205
