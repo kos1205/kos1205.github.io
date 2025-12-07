@@ -253,6 +253,9 @@ This process is depicted as functioning only when Baby enters a condition of hei
 * **December 6, 2025 19:20:** Kelvin uses Eddie's phone to call "Katrina" and call is answered by voicemail.  Kelvin leaves another message saying he has an emergency.
 * **December 6, 2025 19:22:** Kelvin uses Eddie's phone to send "Katrina" a text message asking for assistance in a situation.
 * **December 7, 2025 11:26:** (CNTX) Calls and text message to "Katrina" for emergency assistance have received no response from "Katrina" or "mom."
+
+## Context
+Welcome House is a transitional housing facility with 209 private rooms.  Welcome House is located at 234 Memorial Drive SW, Atlanta, GA 30303.
 James Johnson, Jr. ("Jay") resident of Welcome House in room 312
 Frederick Hall ("Slim") resident of Welcome House in room  369
 Eugene Harrison ("Gene") resident of Welcome House in room  338
