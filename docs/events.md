@@ -1,4 +1,4 @@
-## 📅 Chronology of Pre-Nightfalls Events and Contextual Information
+## Chronology of Pre-Nightfalls Events and Contextual Information
 
 ### **October 2022**
 
