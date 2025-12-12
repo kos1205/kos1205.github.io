@@ -1,11 +1,5 @@
 ## 📅 Chronology of Events (2017 – December 4, 2025)
 
-### **2018**
-
-* **Undated (CNTX):** Kelvin's desire for sexual activity practically disappeared due to PDSM, resulting in an almost non-existent sex drive and infrequent masturbation.
- 
----
-
 ### **October 2022**
 
 * **Undated (CNTX):** A Divine Death Notification is more commonly referred to as a "seeing a doppelganger" and is done for surving immediate relatives on Earth by the Creator they can and will occur for anyone.
@@ -16,8 +10,6 @@
 * **Late-October (Divine):** The Creator provided a Divine Death Notification for Patricia Ann Crawley-Rogers Williams to Kelvin.  The notification came after returning to Atlanta from Des Moines when Kelvin was at a hotel, Kelvin was outside smoking a cigarette when something grabbed his attention, when he turned 
 * **Late-October (Divine):** The Creator provided a Divine Death Notification for Katrina Renee Duvall to Kelvin.
 * **Late-October (CNTX):** Beginning on or about the 20th of October 2022 Kelvin received text messages and began exchanging texts with "Mom" and "Katrina." who both failed or refused to answer questions that only they would know.  "Mom" didn't know the name of the man I called "Granddaddy" giving me my father's fathers name instead of Amos Richardson, who has is not a blood relative of Kelvin or Patricia but the love of my grandmother's, Lila Crawley, life and whom she married. "Katrina" never responded to her question which was how her dog was killed when she was attending college--a traumatic event for Katrina that she didn't post details of it on social media and hurt her and deeply saddened me having to watxh her go through it.
-
----
 
 ### **April 2023**
 * **April 2, 2023:** Mount Calvary Baptist Church suffers a suprise assault during Sunday morning worship services that resulted in thw deaths of everyone in the congregation that attended the worship service, the method was beheading with a chain saw, a total of 127 people were killed during that Sunday.  In the aftermath the relatives and those sharing households with those killed on the initial Sunday were also targeted and eliminated.  The church's property was used to host additional mass killings that lured victims by announcing funerals of earlier victims or disguised as a charitable food operation.  This is evidenced the repositories hosted at github.com/MCBCMF/MCBCMassacre OR github.com/Histwo/MCBCMassacre.
